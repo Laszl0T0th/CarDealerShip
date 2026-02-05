@@ -1,0 +1,21 @@
+[Workspace]
+CurrentProject=WebApp.src
+Location=C:\Users\user\Desktop\Apa pendrive\DataFlex\Projects\CarDealerShip\IdeSrc\Szia_Studio.dsk
+CreateNew=3
+[TabWindows]
+GroupCount=1
+HorizontalGroups=1
+[TabGroup0]
+GroupSize=40
+SelectedTab=0
+[Window0]
+Filename=C:\Users\user\Desktop\Apa pendrive\DataFlex\Projects\CarDealerShip\AppSrc\Login.wo
+ViewType=1
+Top=21
+Left=0
+Bottom=620
+Right=853
+CursorLine=0
+CursorColumn=0
+TabIndex=0
+TabGroup=0
